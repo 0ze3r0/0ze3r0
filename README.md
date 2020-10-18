@@ -10,6 +10,10 @@
 - 🥅 ........................................
 - ⚡ .............................................
 
+
+![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=OverthinkersArea&show_icons=true&theme=radical)
+
+
 ### TryHackMe
 
 </br>
@@ -54,7 +58,7 @@
 ➡️ [Youtube Videos...](https://youtube.com/OverthinkersArea)
 
 
-![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=OverthinkersArea&show_icons=true&theme=radical)
+
 
 
 [website]:
