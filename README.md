@@ -14,11 +14,6 @@
 ![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=OverthinkersArea&show_icons=true&theme=radical)
 
 
-### TryHackMe
-
-</br>
-<img src="Overthinker.png">
-</br>
 
 
 ### Connect with me:
