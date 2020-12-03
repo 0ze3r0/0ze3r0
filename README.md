@@ -12,7 +12,7 @@
 
 ![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=OverthinkersArea&show_icons=true&theme=radical)
 
-![0ver3inker's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/overthinkersarea)
+[![0ver3inker's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/overthinkersarea)
 
 
 
