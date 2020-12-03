@@ -12,6 +12,10 @@
 
 ![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=OverthinkersArea&show_icons=true&theme=radical)
 
+<a href="https://dev.to/overthinkersarea">
+  <i class="fab fa-dev" title="overthinkersarea's DEV Profile"></i>
+</a>
+
 [![0ver3inker's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/overthinkersarea)
 
 
