@@ -10,7 +10,7 @@
 - 🥅 • Fun fact: I can stay awake for 72 hours straight.
 
 
-![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=OverthinkersArea&show_icons=true&theme=radical)
+![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=0ver3inker&show_icons=true&theme=radical)
 
 <a href="https://dev.to/overthinkersarea">
   <i class="fab fa-dev" title="overthinkersarea's DEV Profile"></i>
@@ -54,7 +54,7 @@
 ---
 
 
-➡️ [Youtube Videos...](https://youtube.com/OverthinkersArea)
+➡️ [Youtube Videos...](https://youtube.com/0ver3inker)
 
 
 
@@ -63,7 +63,7 @@
 [website]:
 [course]:
 [twitter]: https://twitter.com/0ver3inker
-[youtube]: https://youtube.com/OverthinkersArea
+[youtube]: https://youtube.com/0ver3inker
 [instagram]: https://instagram.com/0ver3inker
 [linkedin]: https://linkedin.com/in/
 
