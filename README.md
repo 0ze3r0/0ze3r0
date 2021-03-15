@@ -6,7 +6,7 @@
 
 - 🔭 • I’m always working.
 - 🌱 • I’m currently learning Malware devlopment,Bash Scripting and Python.
-- 👯 • Introvert.
+- 👯 • 
 - 🥅 • Fun fact: I can stay awake for 72 hours straight.
 
 
