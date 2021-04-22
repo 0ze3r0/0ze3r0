@@ -5,7 +5,7 @@
 ## I'm a Penetration Testor, Developer, and Student!!
 
 - 🔭 • I’m always working.
-- 🌱 • I’m currently learning Malware devlopment,Bash Scripting and Python.
+- 🌱 • I’m currently learning Malware devlopment.
 - 👯 • 
 - 🥅 • Fun fact: I can stay awake for 72 hours straight.
 
