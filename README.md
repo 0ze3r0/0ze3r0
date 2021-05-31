@@ -12,8 +12,8 @@
 
 ![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=0ver3inker&show_icons=true&theme=dark)
 
-![0ver3inker's THM Profile](https://tryhackme.com/badge/54713)
-
+[<img align="left" src="https://tryhackme.com/badge/54713" />]
+      
 <a href="https://dev.to/overthinkersarea">
   <i class="fab fa-dev" title="overthinkersarea's DEV Profile"></i>
 </a>
