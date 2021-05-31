@@ -12,6 +12,7 @@
 
 ![0ver3inker's github stats](https://github-readme-stats.vercel.app/api?username=0ver3inker&show_icons=true&theme=dark)
        
+<img src="https://tryhackme-badges.s3.amazonaws.com/Overthinker.png" alt="TryHackMe">
        
 <a href="https://dev.to/overthinkersarea">
   <i class="fab fa-dev" title="overthinkersarea's DEV Profile"></i>
